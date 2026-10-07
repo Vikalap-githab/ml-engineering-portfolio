@@ -19,4 +19,5 @@ SQL (PostgreSQL) · Python · pandas · NumPy · scikit-learn · DBeaver · Git 
 
 ## Автор
 Виктория Лапшина · портфолио: [vikalap-ai.ru](https://vikalap-ai.ru)
+
 *Репозиторий регулярно обновляется по мере прохождения курса Machine Learning Engineering.*
