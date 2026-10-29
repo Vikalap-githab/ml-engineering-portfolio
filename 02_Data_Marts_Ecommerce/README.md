@@ -24,4 +24,4 @@ PostgreSQL · DBeaver · SQL (CTE, Window Functions, Complex Aggregations, Data 
 
 ### Автор
 
-Виктория Лапшина · портфолио: https://vikalap-ai.ru
+Виктория Лапшина · портфолио: [vikalap-ai.ru](https://vikalap-ai.ru)
